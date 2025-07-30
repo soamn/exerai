@@ -102,7 +102,10 @@ Media assets (videos) served via Cloudflare
 
 ## 👤 Contributors
 
-- **Aman Negi** — Developer, Gemini Agent Integration, Firebase Setup, UI/UX  
+- **Aman Negi** — Developer, Gemini Agent Integration, Firebase Setup, UI/UX
+  
+## Articles
 
+- [ ExerAI: An AI-Powered Fitness Recommendation Application ](https://amannegi.online/exerai-an-ai-powered-fitness-recommendation-application)  
 
 ---
