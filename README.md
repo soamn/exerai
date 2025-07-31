@@ -45,7 +45,7 @@ Media assets (videos) served via Cloudflare
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-handle/exerai.git
+   git clone https://github.com/soamn/exerai.git
    cd exerai
    ```
 
